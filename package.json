@@ -1,0 +1,19 @@
+{
+  "name": "vatoscms",
+  "version": "0.0.1",
+  "description": "VatosCMS Content Management System Built in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagonzalezcs/vatoscms.git"
+  },
+  "author": "Cesar Alejandro Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cagonzalezcs/vatoscms/issues"
+  },
+  "homepage": "https://github.com/cagonzalezcs/vatoscms#readme"
+}
